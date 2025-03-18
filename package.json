@@ -1,19 +1,16 @@
 {
-  "name": "pkg-placeholder",
+  "name": "wpapi-to-swagger",
   "type": "module",
   "version": "0.0.0",
   "packageManager": "pnpm@10.6.2",
   "description": "_description_",
-  "author": "Anthony Fu <anthonyfu117@hotmail.com>",
+  "author": "Hairyf <wwu710632@gmail.com>",
   "license": "MIT",
-  "funding": "https://github.com/sponsors/antfu",
-  "homepage": "https://github.com/antfu/pkg-placeholder#readme",
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/antfu/pkg-placeholder.git"
-  },
-  "bugs": "https://github.com/antfu/pkg-placeholder/issues",
-  "keywords": [],
+  "keywords": [
+    "wpapi",
+    "wpjson",
+    "swagger"
+  ],
   "sideEffects": false,
   "exports": {
     ".": "./dist/index.mjs",
